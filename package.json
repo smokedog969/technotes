@@ -11,7 +11,7 @@
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.8.1",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^2.1.3",
     "react-spinners": "^0.13.8"
   },
   "scripts": {
@@ -41,5 +41,14 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smokedog969/technotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smokedog969/technotes/issues"
+  },
+  "homepage": "https://github.com/smokedog969/technotes#readme"
 }
